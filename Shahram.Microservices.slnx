@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Domain/" />
+  <Folder Name="/Infrastructure.Bus/" />
+  <Folder Name="/Infrastructure.Ioc/" />
+  <Folder Name="/Microservices/" />
+  <Folder Name="/TestApp/">
+    <Project Path="Consumer/Consumer.csproj" Id="528c4922-a446-4ffa-97df-997c70038716" />
+    <Project Path="Producer/Producer.csproj" />
+  </Folder>
+  <Folder Name="/Web/" />
+</Solution>
