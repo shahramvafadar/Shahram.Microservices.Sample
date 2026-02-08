@@ -1,5 +1,7 @@
 <Solution>
-  <Folder Name="/Domain/" />
+  <Folder Name="/Domain/">
+    <Project Path="Shahram.Microservices.Domain.Core/Shahram.Microservices.Domain.Core.csproj" Id="833ff9ba-247b-4f56-98d9-9446d7592303" />
+  </Folder>
   <Folder Name="/Infrastructure.Bus/" />
   <Folder Name="/Infrastructure.Ioc/" />
   <Folder Name="/Microservices/" />
